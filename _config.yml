@@ -2,7 +2,7 @@
 title: oaooao Blog
 SEOTitle: 陆伟的博客 | oaooao Blog | oaooao
 header-img: img/home-bg.jpg
-email: huxpro@gmail.com
+email: 1305034234oaooao@gmail.com
 description: "关于程序与设计、黑客与画家 | 黄玄，Web & Mobile Lover，Software Engineer，UX Designer | 这里是 @Hux黄玄 的个人博客，与你一起发现更大的世界。"
 keyword: "陆伟, @陆伟, oaooao, @oaooao, 博客, 个人网站, 互联网, Web, JavaScript, 前端, 设计"
 url: "https://oaooao.github.io/"              # your host, for absolute URL
@@ -13,10 +13,10 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username:     huxpro
-zhihu_username:     huxpro
-github_username:    huxpro
-twitter_username:   huxpro
+# weibo_username:     huxpro
+zhihu_username:     oaooao
+github_username:    oaooao
+twitter_username:   oaooao
 #facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
 
